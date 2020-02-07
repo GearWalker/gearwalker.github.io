@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: GearWalker's wonderland
+title: GearWalker's WONDERLAND
 email: gearwalker@engineer.com
 description: > # this means to ignore newlines until "baseurl:"
-  GearWalker, he's a highly motivated computer engineer who specialize in software, hardware and computer
-  game development. Interested in using technology for solving problems in funny ways.
-  Want to drive world with technology by a tons of knowledge and experience.
+  wonderland, noun [ C ] <br />
+  uk: /ˈwʌn.dəl.ænd/, us: /ˈwʌn.dɚ.lænd/ <br />
+  A place that is especially attractive or beautiful. Just wonder...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gearwalker.com" # the base hostname & protocol for your site
 twitter_username: gearwalker
@@ -19,5 +19,3 @@ github_username:  gearwalker
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-cayman
