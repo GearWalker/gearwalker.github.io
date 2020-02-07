@@ -3,6 +3,9 @@ layout: post
 title:  "ยิง SensesIoT ใน3บรรทัด"
 date:   2020-02-07 22:30:00 +0700
 categories: blog
+tags: [blog, senses, IoT]
+featured-image: /assets/blog/20200207_01.jpg
+featured-image-alt: ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!
 ---
 ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!
 
