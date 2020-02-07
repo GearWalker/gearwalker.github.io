@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "ยิง SensesIoT ใน3บรรทัด"
+subtitle: "ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!"
 date:   2020-02-07 22:30:00 +0700
 categories: blog
 tags: [blog, senses, IoT]
 featured-image: /assets/blog/20200207_01.jpg
-featured-image-alt: ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!
+featured-image-alt: "senses-3-lines"
 ---
-ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!
+# ปิ้ว!ปิ้ว!ปิ้ว! IoT ที่ไครว่ายากแสนยาก ก็เกมได้แค่ใน 3 บรรทัด!!!
+
+![senses-3-lines](/assets/blog/20200207_01.jpg)
 
 สำหรับไครที่หลงเข้ามาอย่าง ไม่รู้4รู้8 แล้วสงสัยว่าไอ้เจ้า [www.sensesiot.com](https://www.sensesiot.com) มันคืออิหยั๋งหว่า!? ถ้าอยากรู้แบบเต็มๆเน้นๆ ก็สามารถเข้าวาร์ปไปอ่านที่
 [IoT ไปกับ SENSES Platform ตอนที่ 1](https://medium.com/@chan2sook/iot-%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A-senses-platform-bd6726e24849)
