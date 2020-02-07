@@ -14,8 +14,6 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <!-- call the featured-post-image.html template file -->
-        {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
       </li>
     {% endfor %}
   </ul>
